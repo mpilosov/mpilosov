@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/mpilosov">
+  <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpilosov&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="Michael's github stats" />
+</a>
+
+# You May Be Interested In...
+
+<a href="https://github.com/ml-starter-packs/jupyterhub-deploy-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ml-starter-packs&repo=jupyterhub-deploy-docker&theme=algolia" />
+</a>
+
+<a href="https://github.com/ml-starter-packs/mlflow-experiment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ml-starter-packs&repo=mlflow-experiment&theme=algolia" />
+</a>
+
+# More Information
+<a href="https://mpilosov.com">
+Can be found on my website.
+</a>  
